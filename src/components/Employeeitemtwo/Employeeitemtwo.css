@@ -1,0 +1,12 @@
+.two-item{
+	line-height: 20px;
+	display: inline-block;
+	
+}
+
+.two-item-box{
+	height: 40px;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}

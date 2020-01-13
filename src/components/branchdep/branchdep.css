@@ -1,0 +1,25 @@
+.nav {
+  width: 850px;
+  margin: 0 auto;
+  /* float: right; */
+}
+.nav-box {
+  width: 900px;
+  margin: 0 auto;
+  /* float: right; */
+}
+.nav-list {
+  width: 850px;
+  margin: 20px auto;
+  /* float: right; */
+}
+.nav-top {
+  width: 850px;
+  margin: 10px auto;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+.el-form--inline .el-form-item {
+  float: left;
+}
